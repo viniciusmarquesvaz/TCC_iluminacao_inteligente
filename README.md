@@ -1,4 +1,4 @@
-# TCC_iluminacao_inteligente
+# TCC_automação_iluminacao_inteligente
 
 Recentemente, o consumo de energia vem sendo um problema que vem
 aumentando gradativamente com o passar dos anos, elevando-se também o preço das tarifas
